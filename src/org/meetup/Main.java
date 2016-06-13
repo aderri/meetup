@@ -18,6 +18,11 @@ public class Main {
         try {
             System.out.println("wait 1 sec");
             TimeUnit.SECONDS.sleep(10);
+            System.out.println("wait 1 sec");
+            System.out.println("wait 1 sec");
+            System.out.println("wait 1 sec");
+            System.out.println("wait 1 sec");
+            System.out.println("wait 1 sec");
             return 123;
 
         }
