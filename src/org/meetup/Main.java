@@ -23,6 +23,7 @@ public class Main {
             System.out.println("wait 1 sec");
             System.out.println("wait 1 sec");
             System.out.println("wait 1 sec");
+            System.out.println("wait 1 sec");
             return 123;
 
         }
